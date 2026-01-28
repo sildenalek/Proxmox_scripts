@@ -29,7 +29,7 @@ Systemd сервис - корректный запуск и управление
 📋 ИНСТРУКЦИЯ ПО ИСПОЛЬЗОВАНИЮ:
 Скачайте скрипт:
 bash
-curl -O https://example.com/safe-adguard-install.sh
+curl -O https://example.com/safe-adguard-install.sh](https://raw.githubusercontent.com/sildenalek/Proxmox_scripts/refs/heads/main/configure-adguard.sh
 chmod +x safe-adguard-install.sh
 
 Настройте параметры (первые 20 строк скрипта):
